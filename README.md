@@ -7,10 +7,7 @@ pz3d and Viewpoint are Java mods. They only run once ZombieBuddy is installed in
 
 ## ดาวน์โหลด / Download
 
-| Mod | Installer |
-|---|---|
-| pz3d | [ZombieBuddy-pz3d-Installer.zip](https://github.com/theeranan/pz-3d-installer/releases/latest/download/ZombieBuddy-pz3d-Installer.zip) |
-| Project Viewpoint | [ZombieBuddy-Viewpoint-Installer.zip](https://github.com/theeranan/pz-3d-installer/releases/latest/download/ZombieBuddy-Viewpoint-Installer.zip) |
+**[ZombieBuddy-3D-Installer.zip](https://github.com/theeranan/pz-3d-installer/releases/latest/download/ZombieBuddy-3D-Installer.zip)** ใช้ได้ทั้ง pz3d และ Viewpoint / works for both pz3d and Viewpoint
 
 ใช้ม็อด 3D ทีละตัว อย่าเปิด pz3d กับ Viewpoint พร้อมกัน / Use one 3D mod at a time; don't enable pz3d and Viewpoint together.
 
@@ -43,7 +40,7 @@ pz3d and Viewpoint are Java mods. They only run once ZombieBuddy is installed in
 
 - รันใหม่หลัง ZombieBuddy อัปเดต และหลัง Steam ตรวจสอบหรืออัปเดตเกม (Steam จะคืนไฟล์เดิมและ RAM 3 GB)
   Run it again after a ZombieBuddy update, and after Steam verifies or updates the game (Steam puts the original files and the 3 GB limit back).
-- ถอนการติดตั้ง: รันอีกครั้งแล้วกด **2** / To uninstall, run it again and press **2**.
+- ถอนการติดตั้ง: รันอีกครั้งแล้วกด **2** เอา ZombieBuddy ออกทั้งหมดและคืน RAM เป็น 3 GB / To uninstall, run it again and press **2**: removes everything ZombieBuddy added and puts the memory limit back to 3 GB.
 - ตอนเข้าเกมครั้งแรก ZombieBuddy จะถามว่าจะให้โหลด Java mod ไหม ให้กด Allow
   On first start, ZombieBuddy asks whether to load the Java mod. Choose Allow.
 - สคริปต์เป็นไฟล์ข้อความ เปิดอ่านได้ว่าทำอะไร / The script is plain text; read it to see exactly what it does.
